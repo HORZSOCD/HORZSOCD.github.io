@@ -1,2 +1,0 @@
-# horzsocd.github.io
-teszt
